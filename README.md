@@ -1,0 +1,1 @@
+Farmers always faces a common problem about big loss in agricuture specially when there are stroms or big digaster alike weather conditions so I have tried to use different machine learning models where they can predicts future time series based weather conditions earliers and their effect percentige on crops then they can be easly saved from facing the loses
